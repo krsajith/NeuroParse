@@ -1,0 +1,8 @@
+---
+applications:
+- name: Neuro-Parse-Core-API
+  memory: 256M
+  instances: 1
+  host: rest-service
+  domain: guides.spring.io
+  path: build/libs/Neuro-Parse-Core-API-0.1.0.jar
