@@ -2,6 +2,10 @@
 
 NeuroParse is state of art business intelligence tool for the cognitive Era.
 
+![alt text](https://github.com/krsajith/NeuroParse/blob/master/page1.png)
+
+
+
 ## Modules
 
 ### NeuroParseCoreAPI
